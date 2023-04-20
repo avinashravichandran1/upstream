@@ -1,0 +1,2 @@
+ubuntu --version
+ubundu --v
